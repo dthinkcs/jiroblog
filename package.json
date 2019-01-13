@@ -1,0 +1,11 @@
+{
+  "name": "jiroblog",
+  "version": "1.0.0",
+  "description": "Blog With Gamified Elements to focus on Craft Lifelong Learning etc",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
